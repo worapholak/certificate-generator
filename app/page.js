@@ -830,7 +830,7 @@ End Sub`;
                   <div className="absolute left-0 top-0 flex items-center justify-center h-6 w-6 rounded-full bg-blue-100 text-blue-800">3</div>
                   <div>
                     <span className="font-medium text-blue-700">สร้าง Certificate</span>
-                    <p className="text-sm mt-1 text-gray-600">กดปุ่ม "สร้าง Certificate" เพื่อสร้างและดาวน์โหลดไฟล์</p>
+                    <p className="text-sm mt-1 text-gray-600">กดปุ่ม สร้าง Certificate เพื่อสร้างและดาวน์โหลดไฟล์</p>
                   </div>
                 </li>
               </ol>
